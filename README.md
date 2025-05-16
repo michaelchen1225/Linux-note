@@ -1,6 +1,7 @@
 ﻿# Linux-note
 
 > 參考來源：[鳥哥的 Linux 私房菜](https://linux.vbird.org)
+
 > 舊筆記都是 PDF，放在[這個](https://drive.google.com/drive/folders/1piXt6WAo-I7DGQd1afMOIhf2zSKbH4c2?hl=zh-tw)雲端，最近會陸續整理至這個 repo
 
 ## 目錄
